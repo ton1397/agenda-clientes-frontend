@@ -1,4 +1,4 @@
-# agenda-clientes
+# agenda-clientes-frontend
 
 ## Project setup
 ```
